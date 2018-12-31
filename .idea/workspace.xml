@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/public/index.php" line="116" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/public/index.php" line="186" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="889" mnemonic="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dce6dde5-289c-48b2-b000-97e96d042a81" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Logo_Vertuta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Logo_Vertuta_copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/ZagoguliniWrap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/ZagoguliniWrapFlip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/aboutApple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/aboutHall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/aboutVegetables.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/abputHuman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/chef.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/coda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/coffe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/coffe_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/coffies.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/contentImage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/exportAssets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/icecream.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/icecream_big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/icecream_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logos1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logos2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logos3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/markerActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/menuPie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/menu__itemPhoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/newsImage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/newsStub.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/ol-Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/paginationCover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/pancake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/pie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/quil.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/salesSlide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/shtrudel_apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/tea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/valestoHall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/vegetables.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/vegetables.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/vertuta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/modules/_footerScripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/modules/_footerScripts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/sass/style.sass" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_footerScripts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/modules/_footerScripts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="257" selection-end-column="25" />
+              <folding>
+                <element signature="e#116#629#0#HTML" />
+                <element signature="e#255#419#0#HTML" />
+                <element signature="e#528#792#0#HTML" />
+                <element signature="e#809#1073#0#HTML" />
+                <element signature="e#1090#1361#0#HTML" />
+                <element signature="e#1378#1634#0#HTML" />
+                <element signature="e#1660#1709#0#HTML" />
+                <element signature="e#2038#2513#0#HTML" />
+                <element signature="e#2503#2971#0#HTML" />
+                <element signature="e#2977#3542#0#HTML" />
+                <element signature="e#3548#4032#0#HTML" />
+                <element signature="e#4149#4727#0#HTML" />
+                <element signature="e#4556#5140#0#HTML" />
+                <element signature="e#5763#7298#0#HTML" />
+                <element signature="e#5758#9855#0#HTML" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_head.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/modules/_head.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="121" column="28" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="1123" column="9" selection-start-line="1123" selection-start-column="9" selection-end-line="1123" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="185" column="26" selection-start-line="185" selection-start-column="26" selection-end-line="185" selection-end-column="26" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#1;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/modules/_footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="partners.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/partners.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="73" column="10" lean-forward="true" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bannerContent</find>
+      <find>ourPartners</find>
+      <find>our</find>
+      <find>contentPage</find>
+      <find>br</find>
+      <find>legendCaption</find>
+      <find>showSucsessMsg()</find>
+      <find>showMsg</find>
+      <find>contactFormWrap</find>
+      <find>contentPageWrap</find>
+      <find>/img/aboutUs/900_500.png</find>
+      <find>imageBlock</find>
+      <find>lightBlock</find>
+      <find>content</find>
+      <find>#eee</find>
+      <find>col-33</find>
+      <find>wrap</find>
+      <find>padding-top: 100%</find>
+      <find>imageWrap</find>
+      <find>resize</find>
+      <find>floatingCaption</find>
+      <find>.contentPageWrap</find>
+      <find>headingBlock</find>
+      <find>bigCard</find>
+      <find>userCardWrap</find>
+      <find>textSquare</find>
+      <find>darkBlo</find>
+      <find>smallCard</find>
+      <find>expCol</find>
+      <find>floatingText</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/modules/_header.php" />
+        <option value="$PROJECT_DIR$/public/parthers.php" />
+        <option value="$PROJECT_DIR$/public/partners.php" />
+        <option value="$PROJECT_DIR$/public/services.php" />
+        <option value="$PROJECT_DIR$/public/insights.php" />
+        <option value="$PROJECT_DIR$/public/contacts.php" />
+        <option value="$PROJECT_DIR$/htmlVer/modules/_footer.php" />
+        <option value="$PROJECT_DIR$/htmlVer/index.php" />
+        <option value="$PROJECT_DIR$/htmlVer/index.html" />
+        <option value="$PROJECT_DIR$/htmlVer/insights.html" />
+        <option value="$PROJECT_DIR$/htmlVer/partners.html" />
+        <option value="$PROJECT_DIR$/htmlVer/services.html" />
+        <option value="$PROJECT_DIR$/htmlVer/contacts.html" />
+        <option value="$PROJECT_DIR$/htmlVer/codeOfConduct.html" />
+        <option value="$PROJECT_DIR$/public/modules/_footer.php" />
+        <option value="$PROJECT_DIR$/public/modules/_footerScripts.php" />
+        <option value="$PROJECT_DIR$/public/js/custom.js" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/style.sass" />
+        <option value="&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="310" />
+    <option name="y" value="13" />
+    <option name="width" value="1198" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="style.min.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dce6dde5-289c-48b2-b000-97e96d042a81" name="Default" comment="" />
+      <created>1545654610669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545654610669</updated>
+      <workItem from="1545654612586" duration="51181000" />
+      <workItem from="1546088906172" duration="1739000" />
+      <workItem from="1546107924333" duration="38224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91144000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="8" weight="0.16591929" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.17868099" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16871166" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/modules/_footerScripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13838">
+          <caret line="814" column="28" selection-start-line="814" selection-start-column="28" selection-end-line="814" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#116#629#0#HTML" />
+            <element signature="e#255#419#0#HTML" />
+            <element signature="e#528#792#0#HTML" />
+            <element signature="e#809#1073#0#HTML" />
+            <element signature="e#1090#1361#0#HTML" />
+            <element signature="e#1378#1634#0#HTML" />
+            <element signature="e#1660#1709#0#HTML" />
+            <element signature="e#2038#2513#0#HTML" />
+            <element signature="e#2503#2971#0#HTML" />
+            <element signature="e#2977#3542#0#HTML" />
+            <element signature="e#3548#4032#0#HTML" />
+            <element signature="e#4149#4727#0#HTML" />
+            <element signature="e#4556#5140#0#HTML" />
+            <element signature="e#5763#7298#0#HTML" />
+            <element signature="e#5758#9855#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/_footerScripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="94" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/insights.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/partners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/codeOfConduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="148" column="30" selection-start-line="148" selection-start-column="30" selection-end-line="148" selection-end-column="30" />
+          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+          <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
+          <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13838">
+          <caret line="814" column="28" selection-start-line="814" selection-start-column="28" selection-end-line="814" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7392.15167/fonts.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.29636/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.49962/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10976.45372/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10648.46776/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/_mixins.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="157" column="16" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/codeOfConduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/modules/_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/modules/_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" lean-forward="true" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/modules/_ieStub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/modules/_footerScripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/modules/_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="6" lean-forward="true" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/index.php" />
+    <entry file="file://$PROJECT_DIR$/htmlVer/contacts.php" />
+    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/insights.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/partners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1326">
+          <caret selection-end-line="94" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/codeOfConduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="148" column="30" selection-start-line="148" selection-start-column="30" selection-end-line="148" selection-end-column="30" />
+          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+          <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
+          <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/howWeWork/1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/insights.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="121" column="28" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/_footerScripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="1123" column="9" selection-start-line="1123" selection-start-column="9" selection-end-line="1123" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="257" selection-end-column="25" />
+          <folding>
+            <element signature="e#116#629#0#HTML" />
+            <element signature="e#255#419#0#HTML" />
+            <element signature="e#528#792#0#HTML" />
+            <element signature="e#809#1073#0#HTML" />
+            <element signature="e#1090#1361#0#HTML" />
+            <element signature="e#1378#1634#0#HTML" />
+            <element signature="e#1660#1709#0#HTML" />
+            <element signature="e#2038#2513#0#HTML" />
+            <element signature="e#2503#2971#0#HTML" />
+            <element signature="e#2977#3542#0#HTML" />
+            <element signature="e#3548#4032#0#HTML" />
+            <element signature="e#4149#4727#0#HTML" />
+            <element signature="e#4556#5140#0#HTML" />
+            <element signature="e#5763#7298#0#HTML" />
+            <element signature="e#5758#9855#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="73" column="10" lean-forward="true" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
