@@ -2,7 +2,7 @@
 <?php include 'modules/_header.php' ?>
 <?php include 'modules/_ieStub.php' ?>
     <!--how we work start-->
-    <section class="howWeWork">
+    <section class="howWeWork mainpageSection">
         <div class="contentPageWrap lightBlock">
             <div class="flexRow rowWrap wayCardWrap">
                 <div class="wayCard">
@@ -40,7 +40,7 @@
     </section>
     <!--how we work end-->
     <!--aboutUs start-->
-    <section class="aboutUs">
+    <section class="aboutUs mainpageSection">
         <div class="contentPageWrap darkBlock">
             <div class="flexCol">
                 <div class="headingWrap">
@@ -131,7 +131,7 @@
     </section>
     <!--aboutUs end-->
     <!--benefits start-->
-    <section class="howWeWork">
+    <section class="benefits mainpageSection">
         <div class="contentPageWrap lightBlock">
             <div class="flexCol">
                 <div class="headingWrap">
@@ -205,7 +205,7 @@
     </section>
     <!--benefits end-->
     <!--advantages start-->
-    <section class="advantages">
+    <section class="advantages mainpageSection">
         <div class="contentPageWrap darkBlock">
             <div class="flexCol">
                 <div class="headingWrap">
@@ -256,5 +256,87 @@
         </div>
     </section>
     <!--advantages end-->
+    <!--slider start-->
+    <section class="capabilities mainpageSection">
+        <div class="contentPageWrap lightBlock">
+            <div class="flexCol">
+                <div class="headingWrap">
+                    <div class="headingBlock">
+                        <h2>capabilities</h2>
+                    </div>
+                </div>
+                <div class="sliderBlock">
+                    <div class="sliderItem">
+                        <div class="sliderItemWrap">
+                            <div class="image-col" >
+                                <img class="image-col__Item" src="img/bg/sliderBackground.png" alt="slide image">
+                            </div>
+                            <div class="text-col">
+                                <h3>Liquid Asset Management</h3>
+                                <div class="slideCaption">
+                                    <p>Your wealth management. Crafted for performance.</p>
+                                </div>
+                                <button class="sliderCta">details</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sliderItem">
+                        <div class="sliderItemWrap">
+                            <div class="image-col" >
+                                <img class="image-col__Item" src="img/bg/sliderBackground.png" alt="slide image">
+                            </div>
+                            <div class="text-col">
+                                <h3>Liquid Asset Management</h3>
+                                <div class="slideCaption">
+                                    <p>Your wealth management. Crafted for performance.</p>
+                                </div>
+                                <button class="sliderCta">details</button>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--slider end-->
+    <!--insights start-->
+    <section class="insigthts mainpageSection">
+        <div class="contentPageWrap darkBlock">
+            <div class="flexCol">
+                <div class="headingWrap">
+                    <div class="headingBlock">
+                        <h2>Insigthts</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="flexRow insigthts__Wrap">
+                <a href="insights.php" class="insigthts__Item">
+                    <div class="image-col" >
+                        <img class="image-col__Item" src="img/bg/insightSmall.png" alt="slide image">
+                    </div>
+                    <div class="text-col">
+                        <h3>Preparing to TIEAs-2020</h3>
+                        <div class="insigthts__Caption">
+                            <p>Your wealth management. Crafted for performance.</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="insights.php" class="insigthts__Item">
+                    <div class="image-col" >
+                        <img class="image-col__Item" src="img/bg/insightSmall.png" alt="slide image">
+                    </div>
+                    <div class="text-col">
+                        <h3>Preparing to TIEAs-2020</h3>
+                        <div class="insigthts__Caption">
+                            <p>Your wealth management. Crafted for performance.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+    <!--insights end-->
 <?php include 'modules/_footer.php' ?>
 <?php include 'modules/_footerScripts.php' ?>

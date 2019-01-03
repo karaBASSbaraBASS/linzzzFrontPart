@@ -22,8 +22,6 @@ $(document).ready(function () {
 
     partnersSlider();
 
-    salesSlider();
-
     $(".b-popup__close").on('click', function (e) {
         PopUpHide();
     });
@@ -159,41 +157,15 @@ function setNavHeight() {
 //     //console.log($headerHeaight)
 // }
 function partnersSlider() {
-    $('.partnersSlider').slick({
-        speed: 300,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        infinite: false,
-        dots: false,
-        nextArrow: '<div class="slick-next"></div>',
-        prevArrow: '<div class="slick-prev"></div>',
-        responsive: [{
-            breakpoint: 768,
-            settings: {
-                slidesToShow: 2,
-                slidesToScroll: 1
-            }
-        },
-            {
-                breakpoint: 530,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }
-        ]
-    });
-}
-
-function salesSlider() {
-    $('.salesSlider').slick({
+    $('.sliderBlock').slick({
         speed: 300,
         slidesToShow: 1,
         slidesToScroll: 1,
         infinite: false,
-        dots: false,
+        dots: true,
         nextArrow: '<div class="slick-next"></div>',
-        prevArrow: '<div class="slick-prev"></div>',
+        prevArrow: '<div class="slick-prev"></div>'
+
     });
 }
 
