@@ -1,1 +1,0 @@
-# valesto frontent part
