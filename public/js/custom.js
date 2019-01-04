@@ -55,9 +55,7 @@ $(document).ready(function () {
 });
 
 $(window).on('load', function () {
-    if (is_mapInit){
-        map.setCenter(center);
-    }
+
 
     var $hamburger = $(".hamburger"),
         $nav = $(".navigation"),
@@ -100,22 +98,7 @@ $(window).on('load', function () {
     }, 300);
 
 
-
-    // $(".submitBtn").on('click', function (form) {
-    //     // event.preventDefault();
-    //     validateSubscribeForm(form);
-    //     console.table(form.serialize)
-    // });
-
     $(window).resize(function() {
-        // setBannerHeight()
-
-        if (window.innerWidth < 1025) {
-            setNavHeight()
-        }
-        if(window.innerWidth > 1025) {
-            $(".navigation").css({"height": "auto"})
-        }
 
         // set square height
         setSquareHeight();
@@ -150,12 +133,7 @@ function setNavHeight() {
     $nav.css({height: $menuHeight + "px", top: "-" + $menuHeight + "px"})
     //console.log($navHeight);
 }
-// function setBannerHeight() {
-//     var $curHeight = window.innerHeight,
-//         $headerHeaight = $("header").height();
-//     $("#section__main").css({height: $curHeight - $headerHeaight+"px"})
-//     //console.log($headerHeaight)
-// }
+
 function partnersSlider() {
     $('.sliderBlock').slick({
         speed: 300,

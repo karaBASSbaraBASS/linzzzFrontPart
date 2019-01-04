@@ -17,19 +17,19 @@
                         <a class="navigation__link active" href="index.php"><span>who we are</span></a>
                     </li>
                     <li class="navigation__item">
-                        <a class="navigation__link" href="about.php"><span>code of conduct</span></a>
+                        <a class="navigation__link" href="codeOfConduct.php"><span>code of conduct</span></a>
                     </li>
                     <li class="navigation__item">
-                        <a class="navigation__link" href="menu.php"><span>services</span></a>
+                        <a class="navigation__link" href="services.php"><span>services</span></a>
                     </li>
                     <li class="navigation__item">
                         <a class="navigation__link" href="parthership.php"><span>partners</span></a>
                     </li>
                     <li class="navigation__item">
-                        <a class="navigation__link" href="news.php"><span>insights</span></a>
+                        <a class="navigation__link" href="insights.php"><span>insights</span></a>
                     </li>
                     <li class="navigation__item">
-                        <a class="navigation__link" href="sales.php"><span>contacts</span></a>
+                        <a class="navigation__link" href="contacts.php"><span>contacts</span></a>
                     </li>
 
                 </ul>

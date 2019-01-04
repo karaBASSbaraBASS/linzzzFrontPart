@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="945" mnemonic="3" />
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="986" mnemonic="2" />
-    <bookmark url="file://$PROJECT_DIR$/public/index.php" line="320" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="948" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/public/services.php" line="11" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1064" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce6dde5-289c-48b2-b000-97e96d042a81" name="Default" comment="" />
+    <list default="true" id="dce6dde5-289c-48b2-b000-97e96d042a81" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlVer/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/services.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,28 +19,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_footerScripts.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/_footerScripts.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="339" selection-end-column="23" />
+            <state relative-caret-position="265">
+              <caret line="267" column="39" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="39" />
               <folding>
                 <element signature="e#148#1683#0#HTML" />
                 <element signature="e#1740#5830#0#HTML" />
                 <element signature="e#5884#9187#0#HTML" />
                 <element signature="e#9244#11458#0#HTML" />
-                <element signature="e#11510#12758#0#HTML" />
+                <element signature="e#11871#12684#0#HTML" />
+                <element signature="e#12645#13398#0#HTML" />
                 <element signature="e#13529#15743#0#HTML" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-272">
+              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/services.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="70" column="14" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="70" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insights.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/insights.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.html" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="139" column="30" lean-forward="true" selection-end-line="211" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
             </state>
           </provider>
         </entry>
@@ -45,10 +85,15 @@
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="164" column="18" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
+            <state relative-caret-position="197">
+              <caret line="310" column="71" selection-start-line="310" selection-start-column="71" selection-end-line="310" selection-end-column="71" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_ieStub.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/modules/_ieStub.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="_head.php" pinned="false" current-in-tab="false">
@@ -63,8 +108,8 @@
       <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="1048" column="6" lean-forward="true" selection-start-line="1048" selection-start-column="6" selection-end-line="1048" selection-end-column="6" />
+            <state relative-caret-position="299">
+              <caret line="1360" column="16" selection-start-line="1360" selection-start-column="16" selection-end-line="1360" selection-end-column="16" />
               <folding>
                 <element signature="e#19928#20100#0" />
                 <element signature="e#20115#20734#0" />
@@ -75,64 +120,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
-              <folding>
-                <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="31" selection-start-column="31" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_mixins.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/assets/sass/_mixins.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gray-right-arrow.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/img/slider/gray-right-arrow.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/_footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>contentPageWrap</find>
-      <find>/img/aboutUs/900_500.png</find>
-      <find>imageBlock</find>
       <find>lightBlock</find>
       <find>content</find>
       <find>#eee</find>
@@ -158,8 +149,11 @@
       <find>btn</find>
       <find>slick-dots</find>
       <find>advantages</find>
+      <find>partnersSlider</find>
       <find>1023</find>
+      <find>fixedBody</find>
       <find>benefits</find>
+      <find>sliderBlock</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,17 +163,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/public/modules/_header.php" />
         <option value="$PROJECT_DIR$/public/parthers.php" />
         <option value="$PROJECT_DIR$/public/partners.php" />
-        <option value="$PROJECT_DIR$/public/services.php" />
         <option value="$PROJECT_DIR$/public/insights.php" />
         <option value="$PROJECT_DIR$/public/contacts.php" />
         <option value="$PROJECT_DIR$/htmlVer/modules/_footer.php" />
         <option value="$PROJECT_DIR$/htmlVer/index.php" />
         <option value="$PROJECT_DIR$/htmlVer/insights.html" />
         <option value="$PROJECT_DIR$/htmlVer/partners.html" />
-        <option value="$PROJECT_DIR$/htmlVer/services.html" />
         <option value="$PROJECT_DIR$/htmlVer/contacts.html" />
         <option value="$PROJECT_DIR$/htmlVer/codeOfConduct.html" />
         <option value="$PROJECT_DIR$/public/modules/_footer.php" />
@@ -190,11 +181,15 @@
         <option value="$PROJECT_DIR$/public/img/slider/red-left-arrow.svg" />
         <option value="$PROJECT_DIR$/public/img/slider/gray-left-arrow.svg" />
         <option value="$PROJECT_DIR$/public/img/slider/gray-right-arrow.svg" />
-        <option value="$PROJECT_DIR$/public/js/custom.js" />
-        <option value="$PROJECT_DIR$/resources/assets/sass/style.sass" />
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/htmlVer/index.html" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/public/modules/_header.php" />
+        <option value="$PROJECT_DIR$/public/services.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/style.sass" />
+        <option value="&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/services.html" />
+        <option value="$PROJECT_DIR$/public/js/custom.js" />
+        <option value="$PROJECT_DIR$/htmlVer/services.html" />
       </list>
     </option>
   </component>
@@ -246,6 +241,12 @@
             <path>
               <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
               <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlVer" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,12 +259,6 @@
               <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
               <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -271,24 +266,6 @@
               <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,12 +312,12 @@
       <workItem from="1545654612586" duration="51181000" />
       <workItem from="1546088906172" duration="1739000" />
       <workItem from="1546107924333" duration="39051000" />
-      <workItem from="1546460305120" duration="16353000" />
+      <workItem from="1546460305120" duration="24969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108324000" />
+    <option name="totallyTimeSpent" value="117064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
@@ -362,12 +339,27 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.17868099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16871166" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.16591929" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Favorites" order="3" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,20 +369,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/contacts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/_footerScripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -461,21 +439,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7392.15167/fonts.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.29636/fonts.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.49962/fonts.css" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10976.45372/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10976.45372/fonts.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10648.46776/fonts.css" />
-    <entry file="file://$PROJECT_DIR$/public/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/codeOfConduct.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -520,13 +485,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/htmlVer/index.php" />
     <entry file="file://$PROJECT_DIR$/htmlVer/contacts.php" />
-    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmlVer/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -566,24 +524,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/img/howWeWork/1.svg" />
-    <entry file="file://$PROJECT_DIR$/public/insights.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/contacts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -630,14 +574,24 @@
     <entry file="file://$PROJECT_DIR$/resources/assets/sass/_mixins.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="156" column="13" lean-forward="true" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+          <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="31" selection-start-column="31" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="164" column="18" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
+        <state relative-caret-position="313">
+          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -650,8 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="1048" column="6" lean-forward="true" selection-start-line="1048" selection-start-column="6" selection-end-line="1048" selection-end-column="6" />
+        <state relative-caret-position="299">
+          <caret line="1360" column="16" selection-start-line="1360" selection-start-column="16" selection-end-line="1360" selection-end-column="16" />
           <folding>
             <element signature="e#19928#20100#0" />
             <element signature="e#20115#20734#0" />
@@ -663,40 +617,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="339" selection-end-column="23" />
+        <state relative-caret-position="265">
+          <caret line="267" column="39" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="39" />
           <folding>
             <element signature="e#148#1683#0#HTML" />
             <element signature="e#1740#5830#0#HTML" />
             <element signature="e#5884#9187#0#HTML" />
             <element signature="e#9244#11458#0#HTML" />
-            <element signature="e#11510#12758#0#HTML" />
+            <element signature="e#11871#12684#0#HTML" />
+            <element signature="e#12645#13398#0#HTML" />
             <element signature="e#13529#15743#0#HTML" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
+    <entry file="file://$PROJECT_DIR$/public/js/user_functions.js" />
+    <entry file="file://$PROJECT_DIR$/public/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
-          <folding>
-            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="197">
+          <caret line="310" column="71" selection-start-line="310" selection-start-column="71" selection-end-line="310" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="31" selection-start-column="31" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/public/modules/_ieStub.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/insights.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="70" column="14" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="70" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
         </state>
       </provider>
     </entry>
