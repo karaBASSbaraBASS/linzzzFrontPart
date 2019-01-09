@@ -9,9 +9,29 @@
                     <h1>insights</h1>
                 </div>
             </div>
-            <span class="mainSubheading text-center col-70">Preparing to TIEAs-2020</span>
-            <div class="col-80 text-block">
-                <p>Here comes a short explanation...</p>
+            <div class="flexRow insigthts__Wrap insightsPage">
+                <a href="one_insight.php" class="insigthts__Item">
+                    <div class="image-col" >
+                        <img class="image-col__Item" src="img/bg/insightSmall.png" alt="slide image">
+                    </div>
+                    <div class="text-col">
+                        <h3>Preparing to TIEAs-2020</h3>
+                        <div class="insigthts__Caption">
+                            <p>Your wealth management. Crafted for performance.</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="one_insight.php" class="insigthts__Item">
+                    <div class="image-col" >
+                        <img class="image-col__Item" src="img/bg/insightSmall.png" alt="slide image">
+                    </div>
+                    <div class="text-col">
+                        <h3>Preparing to TIEAs-2020</h3>
+                        <div class="insigthts__Caption">
+                            <p>Your wealth management. Crafted for performance.</p>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>

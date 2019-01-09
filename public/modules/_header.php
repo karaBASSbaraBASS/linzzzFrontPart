@@ -29,6 +29,9 @@
                         <a class="navigation__link" href="insights.php"><span>insights</span></a>
                     </li>
                     <li class="navigation__item">
+                        <a class="navigation__link" href="news.php"><span>news</span></a>
+                    </li>
+                    <li class="navigation__item">
                         <a class="navigation__link" href="contacts.php"><span>contacts</span></a>
                     </li>
 

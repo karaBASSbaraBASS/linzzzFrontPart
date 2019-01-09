@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/public/services.php" line="11" mnemonic="1" />
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1073" mnemonic="2" />
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1436" mnemonic="3" />
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1167" mnemonic="4" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1240" mnemonic="4" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1266" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1293" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1086" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce6dde5-289c-48b2-b000-97e96d042a81" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlVer/codeOfConduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/codeOfConduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlVer/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlVer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlVer/insights.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/insights.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlVer/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/partners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlVer/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/insights.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/insights.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/modules/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/modules/_header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,77 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="services.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/services.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="78" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2678">
-              <caret line="267" column="39" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-306">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_head.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/_head.php">
+      <file leaf-file-name="insights.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/insights.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2193">
-              <caret line="129" column="39" selection-start-line="129" selection-start-column="39" selection-end-line="129" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19227">
-              <caret line="1131" column="37" selection-start-line="1131" selection-start-column="37" selection-end-line="1131" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/_footer.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>bigCard</find>
-      <find>userCardWrap</find>
-      <find>darkBlo</find>
-      <find>smallCard</find>
-      <find>expCol</find>
-      <find>floatingText</find>
-      <find>active</find>
-      <find>darkBlock</find>
       <find>slick</find>
       <find>$color-lightGray</find>
       <find>btn</find>
@@ -102,7 +54,6 @@
       <find>sliderBlock</find>
       <find>hamburger</find>
       <find>bannerContent</find>
-      <find>textSquare</find>
       <find>wayCard</find>
       <find>setSquareHeight</find>
       <find>sendBtnCol</find>
@@ -112,6 +63,15 @@
       <find>hover</find>
       <find>header__scrolled</find>
       <find>chevron</find>
+      <find>floatingCaption</find>
+      <find>textSquare</find>
+      <find>1440</find>
+      <find>insigthts__Wrap</find>
+      <find>1400</find>
+      <find>600</find>
+      <find>header</find>
+      <find>sect</find>
+      <find>one_news.php</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,35 +83,41 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/parthers.php" />
         <option value="$PROJECT_DIR$/public/partners.php" />
-        <option value="$PROJECT_DIR$/public/insights.php" />
         <option value="$PROJECT_DIR$/public/contacts.php" />
         <option value="$PROJECT_DIR$/htmlVer/modules/_footer.php" />
         <option value="$PROJECT_DIR$/htmlVer/index.php" />
-        <option value="$PROJECT_DIR$/htmlVer/insights.html" />
-        <option value="$PROJECT_DIR$/htmlVer/partners.html" />
-        <option value="$PROJECT_DIR$/htmlVer/contacts.html" />
-        <option value="$PROJECT_DIR$/htmlVer/codeOfConduct.html" />
         <option value="$PROJECT_DIR$/public/modules/_footerScripts.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/public/img/slider/red-right-arrow.svg" />
         <option value="$PROJECT_DIR$/public/img/slider/red-left-arrow.svg" />
         <option value="$PROJECT_DIR$/public/img/slider/gray-left-arrow.svg" />
         <option value="$PROJECT_DIR$/public/img/slider/gray-right-arrow.svg" />
-        <option value="$PROJECT_DIR$/public/index.php" />
-        <option value="$PROJECT_DIR$/htmlVer/index.html" />
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/public/modules/_header.php" />
         <option value="$PROJECT_DIR$/public/services.php" />
         <option value="&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/services.html" />
-        <option value="$PROJECT_DIR$/htmlVer/services.html" />
         <option value="$PROJECT_DIR$/public/modules/_footer.php" />
         <option value="$PROJECT_DIR$/public/img/icons/chevron-up.svg" />
         <option value="&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/img/img/icons/chevron-up.svg" />
-        <option value="$PROJECT_DIR$/resources/assets/sass/style.sass" />
         <option value="$PROJECT_DIR$/public/js/custom.js" />
         <option value="$PROJECT_DIR$/public/browserconfig.xml" />
         <option value="&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/index.html" />
         <option value="$PROJECT_DIR$/public/modules/_head.php" />
+        <option value="$PROJECT_DIR$/public/modules/_header.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/public/insights.php" />
+        <option value="$PROJECT_DIR$/public/one_news.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/style.sass" />
+        <option value="$PROJECT_DIR$/public/one_insight.php" />
+        <option value="$PROJECT_DIR$/public/news.php" />
+        <option value="$PROJECT_DIR$/htmlVer/index.html" />
+        <option value="$PROJECT_DIR$/htmlVer/services.html" />
+        <option value="$PROJECT_DIR$/htmlVer/partners.html" />
+        <option value="$PROJECT_DIR$/htmlVer/one_news.html" />
+        <option value="$PROJECT_DIR$/htmlVer/one_insight.html" />
+        <option value="$PROJECT_DIR$/htmlVer/news.html" />
+        <option value="$PROJECT_DIR$/htmlVer/insights.html" />
+        <option value="$PROJECT_DIR$/htmlVer/codeOfConduct.html" />
+        <option value="$PROJECT_DIR$/htmlVer/contacts.html" />
       </list>
     </option>
   </component>
@@ -206,37 +172,6 @@
               <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -250,7 +185,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imperial.local" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../linvoProd.local" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -282,12 +217,12 @@
       <workItem from="1546088906172" duration="1739000" />
       <workItem from="1546107924333" duration="39051000" />
       <workItem from="1546460305120" duration="24969000" />
-      <workItem from="1546939190865" duration="5736000" />
+      <workItem from="1546939190865" duration="22258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137484000" />
+    <option name="totallyTimeSpent" value="154006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
@@ -295,13 +230,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.16591929" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.17868099" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.17868099" />
       <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16871166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16871166" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -312,7 +248,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.16591929" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -323,46 +258,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/htmlVer/codeOfConduct.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="148" column="30" selection-start-line="148" selection-start-column="30" selection-end-line="148" selection-end-column="30" />
-          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
-          <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
-          <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13838">
-          <caret line="814" column="28" selection-start-line="814" selection-start-column="28" selection-end-line="814" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/logo.svg" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7392.15167/fonts.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.29636/fonts.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.49962/fonts.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10976.45372/fonts.css" />
@@ -381,37 +276,6 @@
     <entry file="file://$PROJECT_DIR$/htmlVer/modules/_footer.php" />
     <entry file="file://$PROJECT_DIR$/htmlVer/index.php" />
     <entry file="file://$PROJECT_DIR$/htmlVer/contacts.php" />
-    <entry file="file://$PROJECT_DIR$/htmlVer/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlVer/insights.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlVer/partners.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlVer/codeOfConduct.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="148" column="30" selection-start-line="148" selection-start-column="30" selection-end-line="148" selection-end-column="30" />
-          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
-          <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
-          <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -470,30 +334,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/user_functions.js" />
     <entry file="file://$PROJECT_DIR$/public/modules/_ieStub.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="211" selection-start-line="211" selection-end-line="211" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/insights.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -504,13 +347,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/img/icons/chevron-up.svg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19227">
-          <caret line="1131" column="37" selection-start-line="1131" selection-start-column="37" selection-end-line="1131" selection-end-column="37" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/modules/_footer.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -553,17 +389,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/public/img/icons/49720046_1131954456972972_6854563226533756928_n.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2678">
-          <caret line="267" column="39" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="39" />
+        <state relative-caret-position="374">
+          <caret line="316" column="101" lean-forward="true" selection-start-line="316" selection-start-column="24" selection-end-line="316" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="1108" column="20" lean-forward="true" selection-start-line="1108" selection-start-column="20" selection-end-line="1108" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/one_insight.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="73" column="10" lean-forward="true" selection-start-line="3" selection-end-line="73" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/one_news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/partners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/one_news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/one_insight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/insights.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/codeOfConduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/insights.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
