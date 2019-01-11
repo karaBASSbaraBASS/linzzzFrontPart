@@ -105,11 +105,13 @@ $(window).on('load', function () {
         }
 
     });
+
     if (window.innerWidth <= 1024) {
         setNavHeight()
     }
 
-    // setBannerHeight();
+    // setSliderHeight();
+    setSlickHeight();
 
     // show white stub before site will be loaded
     setTimeout(function () {
@@ -125,6 +127,9 @@ $(window).on('load', function () {
         }
         // set menu on resize
         setNavHeight()
+
+        // setSliderHeight();
+        setSlickHeight();
     })
     $(window).on('scroll', function(){
         if( window.innerWidth > 768 ) {
@@ -146,6 +151,10 @@ $(window).on('load', function () {
     // alert(window.innerWidth);
 
 });
+function setSlickHeight() {
+    var stHeight = $('.slick-track').height();
+    $('.slick-slide').css('height',stHeight + 'px' );
+}
 function fixedBody($nav) {
     if ($nav.hasClass("active")) {
         $("body").addClass("fixedBody");

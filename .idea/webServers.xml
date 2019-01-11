@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="08dd390e-ce2d-44f0-8747-718b5fb5a096" name="linvo for css" url="http://ez331009.ftp.tools">
+        <fileTransfer host="ez331009.ftp.tools" port="21" rootFolder="/testlnvsite.com.ua">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

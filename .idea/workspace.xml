@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1240" mnemonic="4" />
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1266" mnemonic="2" />
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1293" mnemonic="3" />
-    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1086" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1280" mnemonic="4" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1243" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="555" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/sass/style.sass" line="1361" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce6dde5-289c-48b2-b000-97e96d042a81" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/htmlVer/codeOfConduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/codeOfConduct.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlVer/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlVer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlVer/insights.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/insights.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlVer/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/partners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlVer/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlVer/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/insights.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/insights.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/modules/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/modules/_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/custom.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,11 +24,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="insights.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/insights.php">
+      <file leaf-file-name="style.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="229">
+              <caret line="572" column="11" lean-forward="true" selection-start-line="572" selection-start-column="11" selection-end-line="572" selection-end-column="11" />
+              <folding>
+                <element signature="e#26270#27850#0" />
+                <marker date="1547165253393" expanded="true" signature="9408:9451" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlVer/footer.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlVer/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3502">
+              <caret line="206" column="11" selection-start-line="206" selection-start-column="11" selection-end-line="206" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlVer/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2193">
+              <caret line="129" selection-start-line="129" selection-end-line="129" />
             </state>
           </provider>
         </entry>
@@ -42,36 +77,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>slick</find>
-      <find>$color-lightGray</find>
-      <find>btn</find>
-      <find>slick-dots</find>
-      <find>advantages</find>
-      <find>partnersSlider</find>
-      <find>1023</find>
-      <find>fixedBody</find>
-      <find>benefits</find>
-      <find>sliderBlock</find>
-      <find>hamburger</find>
-      <find>bannerContent</find>
-      <find>wayCard</find>
-      <find>setSquareHeight</find>
-      <find>sendBtnCol</find>
-      <find>navigation</find>
-      <find>scroll</find>
-      <find>resize</find>
-      <find>hover</find>
-      <find>header__scrolled</find>
-      <find>chevron</find>
-      <find>floatingCaption</find>
-      <find>textSquare</find>
       <find>1440</find>
-      <find>insigthts__Wrap</find>
       <find>1400</find>
       <find>600</find>
       <find>header</find>
       <find>sect</find>
       <find>one_news.php</find>
+      <find>footer</find>
+      <find>33</find>
+      <find>insigthts__Item</find>
+      <find>insights</find>
+      <find>insigthts__Wrap</find>
+      <find>wayCard</find>
+      <find>ctaBtn</find>
+      <find>insigthts</find>
+      <find>sliderItemWrap</find>
+      <find>cardHeading</find>
+      <find>html</find>
+      <find>slideCaption</find>
+      <find>slider</find>
+      <find>captionToImage</find>
+      <find>mainHeading</find>
+      <find>mainSubheading</find>
+      <find>floatingCaption</find>
+      <find>contentPageWrap</find>
+      <find>text-block</find>
+      <find>insights__Item</find>
+      <find>footerLogo</find>
+      <find>.footerCol</find>
+      <find>floatingHeader</find>
+      <find>media</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,7 +133,6 @@
         <option value="$PROJECT_DIR$/public/modules/_footer.php" />
         <option value="$PROJECT_DIR$/public/img/icons/chevron-up.svg" />
         <option value="&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/img/img/icons/chevron-up.svg" />
-        <option value="$PROJECT_DIR$/public/js/custom.js" />
         <option value="$PROJECT_DIR$/public/browserconfig.xml" />
         <option value="&lt;de6c087d-b486-4997-9431-95df932b44ce&gt;/avocadolinvo1.zzz.com.ua/index.html" />
         <option value="$PROJECT_DIR$/public/modules/_head.php" />
@@ -106,7 +140,6 @@
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/public/insights.php" />
         <option value="$PROJECT_DIR$/public/one_news.php" />
-        <option value="$PROJECT_DIR$/resources/assets/sass/style.sass" />
         <option value="$PROJECT_DIR$/public/one_insight.php" />
         <option value="$PROJECT_DIR$/public/news.php" />
         <option value="$PROJECT_DIR$/htmlVer/index.html" />
@@ -118,6 +151,16 @@
         <option value="$PROJECT_DIR$/htmlVer/insights.html" />
         <option value="$PROJECT_DIR$/htmlVer/codeOfConduct.html" />
         <option value="$PROJECT_DIR$/htmlVer/contacts.html" />
+        <option value="&lt;08dd390e-ce2d-44f0-8747-718b5fb5a096&gt;/www/resources/views/modules/header.blade.php" />
+        <option value="$PROJECT_DIR$/htmlVer/header.blade.php" />
+        <option value="&lt;08dd390e-ce2d-44f0-8747-718b5fb5a096&gt;/www/resources/views/insights/index.blade.php" />
+        <option value="&lt;08dd390e-ce2d-44f0-8747-718b5fb5a096&gt;/www/resources/views/services/index.blade.php" />
+        <option value="$PROJECT_DIR$/htmlVer/index.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/custom.js" />
+        <option value="&lt;08dd390e-ce2d-44f0-8747-718b5fb5a096&gt;/www/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/htmlVer/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/htmlVer/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/style.sass" />
       </list>
     </option>
   </component>
@@ -172,6 +215,36 @@
               <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linvo.local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linvo.local" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -190,6 +263,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,15 +295,17 @@
       <workItem from="1546088906172" duration="1739000" />
       <workItem from="1546107924333" duration="39051000" />
       <workItem from="1546460305120" duration="24969000" />
-      <workItem from="1546939190865" duration="22258000" />
+      <workItem from="1546939190865" duration="43285000" />
+      <workItem from="1547163022496" duration="2832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154006000" />
+    <option name="totallyTimeSpent" value="177865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -258,10 +338,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.29636/fonts.css" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3844.49962/fonts.css" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10976.45372/fonts.css" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10648.46776/fonts.css" />
     <entry file="file://$PROJECT_DIR$/public/codeOfConduct.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -338,13 +414,6 @@
     <entry file="file://$PROJECT_DIR$/public/modules/_ieStub.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2193">
-          <caret line="129" column="39" selection-start-line="129" selection-start-column="39" selection-end-line="129" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/img/icons/chevron-up.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -389,20 +458,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/icons/49720046_1131954456972972_6854563226533756928_n.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/icons/49720046_1131954456972972_6854563226533756928_n.jpg" />
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="316" column="101" lean-forward="true" selection-start-line="316" selection-start-column="24" selection-end-line="316" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="1108" column="20" lean-forward="true" selection-start-line="1108" selection-start-column="20" selection-end-line="1108" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -499,8 +559,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/insights.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="161">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3502">
+          <caret line="206" column="11" selection-start-line="206" selection-start-column="11" selection-end-line="206" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlVer/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="572" column="11" lean-forward="true" selection-start-line="572" selection-start-column="11" selection-end-line="572" selection-end-column="11" />
+          <folding>
+            <element signature="e#26270#27850#0" />
+            <marker date="1547165253393" expanded="true" signature="9408:9451" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
